@@ -1,2 +1,2 @@
 #!/bin/bash
-ls
+#0-current_working_directory# 0-current_working_directory 1-listit 1-listit~ README.md
